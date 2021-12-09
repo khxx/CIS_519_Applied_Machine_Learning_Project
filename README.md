@@ -1,5 +1,5 @@
 # CIS_519_Applied_Machine_Learning_Project
-##              Finding Your Mrs/Mr.Right with Machine Learning
+##  **Finding Your Mrs/Mr.Right with Machine Learning**
 
 ### For this project, we study the problem of predicting tinder swipes using historical behavior, which is important for providing tinder users with a more personalized and comfortable user experience and studying the seriousness of online dating by looking into factors that influence the swipes. The most relevant work to our project is Charles F. Jekel, and Raphael T. Haftka, “Classifying Online Dating Profiles on Tinder using FaceNet Facial Embeddings”. https://github.com/cjekel/tindetheus. 
 
